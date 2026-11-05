@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\AIPoweredOrderService\ShippingService\bin\Debug\net8.0\ShippingService.exe
+C:\Users\user\source\repos\AIPoweredOrderService\ShippingService\bin\Debug\net8.0\ShippingService.deps.json
+C:\Users\user\source\repos\AIPoweredOrderService\ShippingService\bin\Debug\net8.0\ShippingService.runtimeconfig.json
+C:\Users\user\source\repos\AIPoweredOrderService\ShippingService\bin\Debug\net8.0\ShippingService.dll
+C:\Users\user\source\repos\AIPoweredOrderService\ShippingService\bin\Debug\net8.0\ShippingService.pdb
+C:\Users\user\source\repos\AIPoweredOrderService\ShippingService\obj\Debug\net8.0\ShippingService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\AIPoweredOrderService\ShippingService\obj\Debug\net8.0\ShippingService.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\AIPoweredOrderService\ShippingService\obj\Debug\net8.0\ShippingService.AssemblyInfo.cs
+C:\Users\user\source\repos\AIPoweredOrderService\ShippingService\obj\Debug\net8.0\ShippingService.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\AIPoweredOrderService\ShippingService\obj\Debug\net8.0\ShippingService.dll
+C:\Users\user\source\repos\AIPoweredOrderService\ShippingService\obj\Debug\net8.0\refint\ShippingService.dll
+C:\Users\user\source\repos\AIPoweredOrderService\ShippingService\obj\Debug\net8.0\ShippingService.pdb
+C:\Users\user\source\repos\AIPoweredOrderService\ShippingService\obj\Debug\net8.0\ShippingService.genruntimeconfig.cache
+C:\Users\user\source\repos\AIPoweredOrderService\ShippingService\obj\Debug\net8.0\ref\ShippingService.dll
